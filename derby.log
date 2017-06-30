@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 29 23:35:22 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-f6da-5374-000000714408 
+on database directory C:\Users\IgoR\Documents\GitHub\lab-dw-2017-1\db with class loader WebappClassLoader
+  context: /lab-dw-2017-1
+  delegate: false
+  repositories:
+----------> Parent Classloader:
+ClassRealm[plugin>org.apache.tomcat.maven:tomcat7-maven-plugin:2.2, parent: sun.misc.Launcher$AppClassLoader@647e05]
+ 
+Loaded from file:/C:/Users/IgoR/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\IgoR\Documents\GitHub\lab-dw-2017-1
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
